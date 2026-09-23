@@ -22,6 +22,7 @@ public class ENCORE implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		com.hakimo.encore.block.ModBlocks.initialize();
 	}
 
 	public static ResourceLocation id(String path) {

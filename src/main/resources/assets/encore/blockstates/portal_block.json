@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "encore:block/portal_block" }
+  }
+}
