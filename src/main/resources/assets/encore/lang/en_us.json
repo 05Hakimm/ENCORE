@@ -1,3 +1,7 @@
 {
-  "block.encore.portal_block": "Portal Block"
+  "block.encore.portal_green": "Green Portal",
+  "block.encore.portal_blue": "Blue Portal",
+  "block.encore.portal_purple": "Purple Portal",
+  "block.encore.portal_red": "Red Portal",
+  "block.encore.portal_black": "Black Portal"
 }
